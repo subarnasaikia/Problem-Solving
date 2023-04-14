@@ -12,11 +12,21 @@
 
 
 ### LeetCode
-- [Container With Most Water](Day-1/LeetCode/11-Container-With-Most-Water.cpp)
-- [Shuffle the Array](Day-1/LeetCode/1470-Shuffle-the-Array.cpp)
-- [Build Array from Permutation](Day-1/LeetCode/1920-Build-Array-from-Permutation.cpp)
-- [Concatenation of Array](Day-1/LeetCode/1929-Concatenation-of-Array.cpp)
+- Container With Most Water
+  - [Problem](https://leetcode.com/problems/container-with-most-water/)
+  - [Solution](Day-1/LeetCode/11-Container-With-Most-Water.cpp)
+- Shuffle the Array
+  - [Problem](https://leetcode.com/problems/shuffle-the-array/)
+  - [Solution](Day-1/LeetCode/1470-Shuffle-the-Array.cpp)
+- Build Array from Permutation
+  - [Problem](https://leetcode.com/problems/build-array-from-permutation/)
+  - [Solution](Day-1/LeetCode/1920-Build-Array-from-Permutation.cpp)
+- Concatenation of Array
+  - [Problem](https://leetcode.com/problems/concatenation-of-array/)
+  - [Solution](Day-1/LeetCode/1929-Concatenation-of-Array.cpp)
 
 ### CodeForces
-- [Broken Keyboard](Day-1/CodeForces/A-Broken-Keyboard.cpp)
+- Broken Keyboard
+  - [Problem](https://codeforces.com/contest/1251/problem/A)
+  - [Solution](Day-1/CodeForces/A-Broken-Keyboard.cpp)
 
