@@ -7,6 +7,8 @@
   - [Day 1](#day-1)
     - [LeetCode](#leetcode)
     - [CodeForces](#codeforces)
+  - [Day 2](#day-2)
+    - [LeetCode](#leetcode-1)
 ---
 ## Day 1
 
@@ -30,3 +32,14 @@
   - [Problem](https://codeforces.com/contest/1251/problem/A)
   - [Solution](Day-1/CodeForces/A-Broken-Keyboard.cpp)
 
+---
+
+## Day 2
+
+### LeetCode
+- Running Sum of 1d Array
+  - [Problem](https://leetcode.com/problems/running-sum-of-1d-array/)
+  - [Solution](Day-2/LeetCode/1480-Running-Sum-of-1d-Array.cpp)
+- Palindrome Number
+  - [Problem](https://leetcode.com/problems/palindrome-number/)
+  - [Solution](Day-2/LeetCode/9-Palindrome-Number.cpp)
