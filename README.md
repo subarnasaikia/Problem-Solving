@@ -9,6 +9,9 @@
     - [CodeForces](#codeforces)
   - [Day 2](#day-2)
     - [LeetCode](#leetcode-1)
+  - [Day 3](#day-3)
+    - [LeetCode](#leetcode-2)
+    - [CodeForces](#codeforces-1)
 ---
 ## Day 1
 
@@ -43,3 +46,18 @@
 - Palindrome Number
   - [Problem](https://leetcode.com/problems/palindrome-number/)
   - [Solution](Day-2/LeetCode/9-Palindrome-Number.cpp)
+
+---
+## Day 3
+
+
+### LeetCode
+- Two Sum
+  - [Problem](https://leetcode.com/problems/two-sum/description/)
+  - [Solution](Day-3/LeetCode/1-Two-Sum.cpp)
+
+
+### CodeForces
+- Plus or Minus
+  - [Probelm](https://codeforces.com/contest/1807/problem/A)
+  - [Solution](Day-3/CodeForces/A-Plus-or-minus.cpp)
