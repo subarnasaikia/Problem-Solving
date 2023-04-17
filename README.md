@@ -72,7 +72,7 @@
   - [Problem](https://leetcode.com/problems/convert-the-temperature/) 
   - [Solution](Day-4/LeetCode/2469-Convert-the-Temperature.cpp)
 - Number of Good Pairs
-  -[ Problem](https://leetcode.com/problems/number-of-good-pairs/)
+  - [Problem](https://leetcode.com/problems/number-of-good-pairs/)
   - [Solution](Day-4/LeetCode/1512-Number-of-Good-Pairs.cpp)
 - Smallest Even Multiple
   - [Problem](https://leetcode.com/problems/smallest-even-multiple/)
