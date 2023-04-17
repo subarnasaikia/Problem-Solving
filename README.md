@@ -12,6 +12,8 @@
   - [Day 3](#day-3)
     - [LeetCode](#leetcode-2)
     - [CodeForces](#codeforces-1)
+  - [Day 4](#day-4)
+    - [Leetcode](#leetcode-3)
 ---
 ## Day 1
 
@@ -61,3 +63,17 @@
 - Plus or Minus
   - [Probelm](https://codeforces.com/contest/1807/problem/A)
   - [Solution](Day-3/CodeForces/A-Plus-or-minus.cpp)
+
+
+## Day 4
+
+### Leetcode
+- Convert the Temperature
+  - [Problem](https://leetcode.com/problems/convert-the-temperature/) 
+  - [Solution](Day-4/LeetCode/2469-Convert-the-Temperature.cpp)
+- Number of Good Pairs
+  -[ Problem](https://leetcode.com/problems/number-of-good-pairs/)
+  - [Solution](Day-4/LeetCode/1512-Number-of-Good-Pairs.cpp)
+- Smallest Even Multiple
+  - [Problem](https://leetcode.com/problems/smallest-even-multiple/)
+  - [Solution](Day-4/LeetCode/2413-Smallest-Even-Multiple.cpp)
