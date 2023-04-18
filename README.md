@@ -14,6 +14,9 @@
     - [CodeForces](#codeforces-1)
   - [Day 4](#day-4)
     - [Leetcode](#leetcode-3)
+  - [Day 5](#day-5)
+    - [LeetCode](#leetcode-4)
+    - [Codeforces](#codeforces-2)
 ---
 ## Day 1
 
@@ -77,3 +80,16 @@
 - Smallest Even Multiple
   - [Problem](https://leetcode.com/problems/smallest-even-multiple/)
   - [Solution](Day-4/LeetCode/2413-Smallest-Even-Multiple.cpp)
+
+## Day 5
+
+
+### LeetCode
+- How Many Numbers Are Smaller Than the Current Number
+  -  [Problem](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+  -  [Solution](Day-5/LeetCode/1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number.cpp)
+
+### Codeforces
+- Hit the Lottery
+  - [Problem](https://codeforces.com/problemset/problem/996/A)
+  - [Solution](Day-5/Codeforces/A-Hit-the-Lottery.cpp)
