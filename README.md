@@ -17,6 +17,8 @@
   - [Day 5](#day-5)
     - [LeetCode](#leetcode-4)
     - [Codeforces](#codeforces-2)
+  - [Day 6](#day-6)
+    - [LeetCode](#leetcode-5)
 ---
 ## Day 1
 
@@ -68,6 +70,7 @@
   - [Solution](Day-3/CodeForces/A-Plus-or-minus.cpp)
 
 
+---
 ## Day 4
 
 ### Leetcode
@@ -81,6 +84,8 @@
   - [Problem](https://leetcode.com/problems/smallest-even-multiple/)
   - [Solution](Day-4/LeetCode/2413-Smallest-Even-Multiple.cpp)
 
+
+---
 ## Day 5
 
 
@@ -93,3 +98,12 @@
 - Hit the Lottery
   - [Problem](https://codeforces.com/problemset/problem/996/A)
   - [Solution](Day-5/Codeforces/A-Hit-the-Lottery.cpp)
+
+
+---
+## Day 6
+
+### LeetCode
+- Plus One
+  - [Problem](https://leetcode.com/problems/plus-one/description/)
+  - [Solution](Day-6/LeetCode/66-Plus-One.cpp)
