@@ -19,6 +19,8 @@
     - [Codeforces](#codeforces-2)
   - [Day 6](#day-6)
     - [LeetCode](#leetcode-5)
+  - [Day 7](#day-7)
+    - [LeetCode](#leetcode-6)
 ---
 ## Day 1
 
@@ -107,3 +109,18 @@
 - Plus One
   - [Problem](https://leetcode.com/problems/plus-one/description/)
   - [Solution](Day-6/LeetCode/66-Plus-One.cpp)
+
+---
+## Day 7
+
+
+### LeetCode
+- Merge Sorted Array
+  - [Problem](https://leetcode.com/problems/merge-sorted-array/description/)
+  - [Solution](Day-7/LeetCode/88-Merge-Sorted-Array.cpp)
+- Valid Anagram
+  - [Problem](https://leetcode.com/problems/valid-anagram/description/)
+  - [Solution](Day-7/LeetCode/242-Valid-Anagram.cpp)
+
+
+---
