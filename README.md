@@ -21,6 +21,8 @@
     - [LeetCode](#leetcode-5)
   - [Day 7](#day-7)
     - [LeetCode](#leetcode-6)
+  - [Day 8](#day-8)
+    - [LeetCode](#leetcode-7)
 ---
 ## Day 1
 
@@ -124,3 +126,13 @@
 
 
 ---
+
+## Day 8
+
+### LeetCode
+- Sort Array By Parity II
+  - [Problem](https://leetcode.com/problems/sort-array-by-parity-ii/)
+  - [Solution](Day-8/LeetCode/922-Sort-Array-By-Parity-II.cpp)
+- Sorting the Sentence
+  - [Problem](https://leetcode.com/problems/sorting-the-sentence/)
+  - [Solution](Day-8/LeetCode/1859-Sorting-the-Sentence.cpp)
