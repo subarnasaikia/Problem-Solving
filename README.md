@@ -23,6 +23,8 @@
     - [LeetCode](#leetcode-6)
   - [Day 8](#day-8)
     - [LeetCode](#leetcode-7)
+  - [Day 9](#day-9)
+    - [LeetCode](#leetcode-8)
 ---
 ## Day 1
 
@@ -136,3 +138,15 @@
 - Sorting the Sentence
   - [Problem](https://leetcode.com/problems/sorting-the-sentence/)
   - [Solution](Day-8/LeetCode/1859-Sorting-the-Sentence.cpp)
+
+---
+
+## Day 9
+
+### LeetCode
+- Counting Bits
+  - [Problem](https://leetcode.com/problems/counting-bits/description/)
+  - [Solution](Day-9/LeetCode/338-Counting-Bits.cpp)
+- Pascal's Triangle
+  - [Problem](https://leetcode.com/problems/pascals-triangle/description/)
+  - [Solution](Day-9/LeetCode/118-Pascal's-Triangle.cpp)
