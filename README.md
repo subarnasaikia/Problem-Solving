@@ -25,6 +25,8 @@
     - [LeetCode](#leetcode-7)
   - [Day 9](#day-9)
     - [LeetCode](#leetcode-8)
+  - [Day 10](#day-10)
+    - [LeetCode](#leetcode-9)
 ---
 ## Day 1
 
@@ -150,3 +152,12 @@
 - Pascal's Triangle
   - [Problem](https://leetcode.com/problems/pascals-triangle/description/)
   - [Solution](Day-9/LeetCode/118-Pascal's-Triangle.cpp)
+
+---
+## Day 10
+
+
+### LeetCode
+- Sum of All Odd Length Subarrays
+  - [Problem](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/description/)
+  - [Solution](Day-10/LeetCode/1588-Sum-of-All-Odd-Length-Subarrays.cpp)
