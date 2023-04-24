@@ -27,6 +27,8 @@
     - [LeetCode](#leetcode-8)
   - [Day 10](#day-10)
     - [LeetCode](#leetcode-9)
+  - [Day 11](#day-11)
+    - [Leetcode](#leetcode-10)
 ---
 ## Day 1
 
@@ -161,3 +163,14 @@
 - Sum of All Odd Length Subarrays
   - [Problem](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/description/)
   - [Solution](Day-10/LeetCode/1588-Sum-of-All-Odd-Length-Subarrays.cpp)
+
+---
+
+## Day 11
+
+
+### Leetcode
+- Maximum 69 Number
+  - [Problem](https://leetcode.com/problems/maximum-69-number/description/)
+  - [Solution](Day-11/LeetCode/1323-Maximum-69-Number.cpp)
+  - [Explaination](https://leetcode.com/problems/maximum-69-number/solutions/3451349/best-solution-using-array-and-string-in-c/)
