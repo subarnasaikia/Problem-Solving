@@ -29,6 +29,8 @@
     - [LeetCode](#leetcode-9)
   - [Day 11](#day-11)
     - [Leetcode](#leetcode-10)
+  - [Day 12](#day-12)
+    - [LeetCode](#leetcode-11)
 ---
 ## Day 1
 
@@ -174,3 +176,11 @@
   - [Problem](https://leetcode.com/problems/maximum-69-number/description/)
   - [Solution](Day-11/LeetCode/1323-Maximum-69-Number.cpp)
   - [Explaination](https://leetcode.com/problems/maximum-69-number/solutions/3451349/best-solution-using-array-and-string-in-c/)
+
+---
+## Day 12
+
+### LeetCode
+- Defanging an IP Address
+  - [Problem](https://leetcode.com/problems/defanging-an-ip-address/description/)
+  - [Solution](Day-12/LeetCode/1108-Defanging-an-IP-Address.cpp)
