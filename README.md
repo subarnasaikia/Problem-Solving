@@ -31,6 +31,8 @@
     - [Leetcode](#leetcode-10)
   - [Day 12](#day-12)
     - [LeetCode](#leetcode-11)
+  - [Day 13](#day-13)
+    - [LeetCode](#leetcode-12)
 ---
 ## Day 1
 
@@ -184,3 +186,17 @@
 - Defanging an IP Address
   - [Problem](https://leetcode.com/problems/defanging-an-ip-address/description/)
   - [Solution](Day-12/LeetCode/1108-Defanging-an-IP-Address.cpp)
+
+---
+## Day 13
+
+### LeetCode
+- Final Value of Variable After Performing Operations
+  - [Problem](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/)
+  - [Solution](Day-13/LeetCode/2011-Final-Value-of-Variable-After-Performing-Operations.cpp)
+-  Left and Right Sum Differences
+   -  [Problem](https://leetcode.com/problems/left-and-right-sum-differences/description/)
+   -  [Solution](Day-13/LeetCode/2574-Left-and-Right-Sum-Differences.cpp)
+- Degree of an Array
+  - [Problem](https://leetcode.com/problems/degree-of-an-array/description/)
+  - [Solution](Day-13/LeetCode/697-Degree-of-an-Array.cpp)
