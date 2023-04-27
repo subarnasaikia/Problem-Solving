@@ -33,6 +33,8 @@
     - [LeetCode](#leetcode-11)
   - [Day 13](#day-13)
     - [LeetCode](#leetcode-12)
+  - [Day 14](#day-14)
+    - [LeetCode](#leetcode-13)
 ---
 ## Day 1
 
@@ -200,3 +202,11 @@
 - Degree of an Array
   - [Problem](https://leetcode.com/problems/degree-of-an-array/description/)
   - [Solution](Day-13/LeetCode/697-Degree-of-an-Array.cpp)
+
+---
+## Day 14
+
+### LeetCode
+- Bulb Switcher
+  - [Problem](https://leetcode.com/problems/bulb-switcher/description/)
+  - [Solution](Day-14\LeetCode\319-Bulb-Switcher.cpp)
