@@ -35,6 +35,8 @@
     - [LeetCode](#leetcode-12)
   - [Day 14](#day-14)
     - [LeetCode](#leetcode-13)
+  - [Day 15](#day-15)
+    - [LeetCode](#leetcode-14)
 ---
 ## Day 1
 
@@ -210,3 +212,12 @@
 - Bulb Switcher
   - [Problem](https://leetcode.com/problems/bulb-switcher/description/)
   - [Solution](Day-14\LeetCode\319-Bulb-Switcher.cpp)
+
+
+---
+## Day 15
+
+### LeetCode
+- Remove Duplicates from Sorted Array
+  - [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+  - [Solution](Day-15/LeetCode/26-Remove-Duplicates-from-Sorted-Array.cpp)
