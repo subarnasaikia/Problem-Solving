@@ -37,6 +37,8 @@
     - [LeetCode](#leetcode-13)
   - [Day 15](#day-15)
     - [LeetCode](#leetcode-14)
+  - [Day 16](#day-16)
+    - [LeetCode](#leetcode-15)
 ---
 ## Day 1
 
@@ -221,3 +223,15 @@
 - Remove Duplicates from Sorted Array
   - [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
   - [Solution](Day-15/LeetCode/26-Remove-Duplicates-from-Sorted-Array.cpp)
+
+
+---
+## Day 16
+
+### LeetCode
+- Jewels and Stones
+  - [Problem](https://leetcode.com/problems/jewels-and-stones/description/)
+  - [Solution](Day-16/LeetCode/771-Jewels-and-Stones.cpp)
+- Decode the Message
+  - [Problem](https://leetcode.com/problems/decode-the-message/description/)
+  - [Solution](Day-16/LeetCode/2325-Decode-the-Message.cpp)
