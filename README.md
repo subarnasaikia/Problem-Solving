@@ -39,6 +39,8 @@
     - [LeetCode](#leetcode-14)
   - [Day 16](#day-16)
     - [LeetCode](#leetcode-15)
+  - [Day 17](#day-17)
+    - [LeetCode](#leetcode-16)
 ---
 ## Day 1
 
@@ -235,3 +237,11 @@
 - Decode the Message
   - [Problem](https://leetcode.com/problems/decode-the-message/description/)
   - [Solution](Day-16/LeetCode/2325-Decode-the-Message.cpp)
+
+---
+## Day 17
+
+### LeetCode
+- Remove Digit From Number to Maximize Result
+  - [problem](https://leetcode.com/contest/weekly-contest-291/problems/remove-digit-from-number-to-maximize-result/)
+  - [Solution](Day-17/LeetCode/2259-Remove-Digit-From-Number-to-Maximize-Result.cpp)
