@@ -41,6 +41,8 @@
     - [LeetCode](#leetcode-15)
   - [Day 17](#day-17)
     - [LeetCode](#leetcode-16)
+  - [Day 18](#day-18)
+    - [LeetCode](#leetcode-17)
 ---
 ## Day 1
 
@@ -245,3 +247,10 @@
 - Remove Digit From Number to Maximize Result
   - [problem](https://leetcode.com/contest/weekly-contest-291/problems/remove-digit-from-number-to-maximize-result/)
   - [Solution](Day-17/LeetCode/2259-Remove-Digit-From-Number-to-Maximize-Result.cpp)
+
+---
+## Day 18
+### LeetCode
+- Maximum Number of Words Found in Sentences
+  - [Problem](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)
+  - [Solution](Day-18/LeetCode/2114-Maximum-Number-of-Words-Found-in-Sentences.cpp)
