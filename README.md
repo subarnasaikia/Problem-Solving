@@ -43,6 +43,8 @@
     - [LeetCode](#leetcode-16)
   - [Day 18](#day-18)
     - [LeetCode](#leetcode-17)
+  - [Day 19](#day-19)
+    - [LeetCode](#leetcode-18)
 ---
 ## Day 1
 
@@ -254,4 +256,12 @@
 - Maximum Number of Words Found in Sentences
   - [Problem](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)
   - [Solution](Day-18/LeetCode/2114-Maximum-Number-of-Words-Found-in-Sentences.cpp)
-- 
+
+---
+
+## Day 19
+
+### LeetCode
+- Sign of the Product of an Array
+  - [Problem](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)
+  - [Solution](Day-19\LeetCode\1822-Sign-of-the-Product-of-an-Array.cpp)
