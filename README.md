@@ -45,6 +45,8 @@
     - [LeetCode](#leetcode-17)
   - [Day 19](#day-19)
     - [LeetCode](#leetcode-18)
+  - [Day 20](#day-20)
+    - [LeetCode](#leetcode-19)
 ---
 ## Day 1
 
@@ -265,3 +267,10 @@
 - Sign of the Product of an Array
   - [Problem](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)
   - [Solution](Day-19\LeetCode\1822-Sign-of-the-Product-of-an-Array.cpp)
+
+---
+## Day 20
+### LeetCode
+- Find the Difference of Two Arrays
+  - [Problem](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
+  - [Solution](Day-20/LeetCode/2215-Find-the-Difference-of-Two-Arrays.cpp)
