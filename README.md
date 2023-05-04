@@ -47,6 +47,8 @@
     - [LeetCode](#leetcode-18)
   - [Day 20](#day-20)
     - [LeetCode](#leetcode-19)
+  - [Day 21](#day-21)
+    - [LeetCode](#leetcode-20)
 ---
 ## Day 1
 
@@ -274,3 +276,11 @@
 - Find the Difference of Two Arrays
   - [Problem](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
   - [Solution](Day-20/LeetCode/2215-Find-the-Difference-of-Two-Arrays.cpp)
+
+---
+## Day 21
+
+### LeetCode
+- Kids With the Greatest Number of Candies
+  - [Problem](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
+  - [Solution](Day-21/LeetCode/1431-Kids-With-the-Greatest-Number-of-Candies.cpp)
