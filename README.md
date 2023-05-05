@@ -49,6 +49,8 @@
     - [LeetCode](#leetcode-19)
   - [Day 21](#day-21)
     - [LeetCode](#leetcode-20)
+  - [Day 22](#day-22)
+    - [LeetCode](#leetcode-21)
 ---
 ## Day 1
 
@@ -284,3 +286,11 @@
 - Kids With the Greatest Number of Candies
   - [Problem](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
   - [Solution](Day-21/LeetCode/1431-Kids-With-the-Greatest-Number-of-Candies.cpp)
+
+---
+## Day 22
+
+### LeetCode
+- Number of Arithmetic Triplets
+  - [Peoblem](https://leetcode.com/problems/number-of-arithmetic-triplets/description/)
+  - [Solution](Day-22/LeetCode/2367-Number-of-Arithmetic-Triplets.cpp)
