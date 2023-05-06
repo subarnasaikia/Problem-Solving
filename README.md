@@ -51,6 +51,8 @@
     - [LeetCode](#leetcode-20)
   - [Day 22](#day-22)
     - [LeetCode](#leetcode-21)
+  - [Day 23](#day-23)
+    - [LeetCode](#leetcode-22)
 ---
 ## Day 1
 
@@ -294,3 +296,11 @@
 - Number of Arithmetic Triplets
   - [Peoblem](https://leetcode.com/problems/number-of-arithmetic-triplets/description/)
   - [Solution](Day-22/LeetCode/2367-Number-of-Arithmetic-Triplets.cpp)
+  
+---
+## Day 23
+
+### LeetCode
+- Richest Customer Wealth
+  - [Problem](https://leetcode.com/problems/richest-customer-wealth/description/)
+  - [Solution](Day-23/LeetCode/1672-Richest-Customer-Wealth.cpp)
