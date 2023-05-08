@@ -55,6 +55,8 @@
     - [LeetCode](#leetcode-22)
   - [Day 24](#day-24)
     - [LeetCode](#leetcode-23)
+  - [Day 25](#day-25)
+    - [LeetCode](#leetcode-24)
 ---
 ## Day 1
 
@@ -314,3 +316,11 @@
 - Richest Customer Wealth
   - [Problem](https://leetcode.com/problems/richest-customer-wealth/)
   - [Solution](Day-24\LeetCode\1672-Richest-Customer-Wealth.cpp)
+
+---
+## Day 25
+
+### LeetCode
+- Add Two Numbers
+  - [Problem](https://leetcode.com/problems/add-two-numbers/)
+  - [Solution](Day-25/LeetCode/2-Add-Two-Numbers.cpp)
