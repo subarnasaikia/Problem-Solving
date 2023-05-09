@@ -57,6 +57,7 @@
     - [LeetCode](#leetcode-23)
   - [Day 25](#day-25)
     - [LeetCode](#leetcode-24)
+  - [Day 26](#day-26)
 ---
 ## Day 1
 
@@ -324,3 +325,8 @@
 - Add Two Numbers
   - [Problem](https://leetcode.com/problems/add-two-numbers/)
   - [Solution](Day-25/LeetCode/2-Add-Two-Numbers.cpp)
+
+## Day 26
+- Sum Multiples
+  - [Peoblem](https://leetcode.com/problems/sum-multiples/description/)
+  - [Solution](Day-26/LeetCode/2652-Sum-Multiples.cpp)
