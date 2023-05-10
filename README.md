@@ -58,6 +58,9 @@
   - [Day 25](#day-25)
     - [LeetCode](#leetcode-24)
   - [Day 26](#day-26)
+  - [Day 27](#day-27)
+    - [LeeTcode](#leetcode-25)
+      - [SQL](#sql)
 ---
 ## Day 1
 
@@ -330,3 +333,13 @@
 - Sum Multiples
   - [Peoblem](https://leetcode.com/problems/sum-multiples/description/)
   - [Solution](Day-26/LeetCode/2652-Sum-Multiples.cpp)
+
+---
+## Day 27
+
+### LeeTcode
+#### SQL
+
+- Article Vews I
+  - [Problem](https://leetcode.com/problems/article-views-i/description/)
+  - [Solution](Day-27/1148-Article-Views-I.sql)
