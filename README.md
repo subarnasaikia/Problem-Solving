@@ -61,6 +61,8 @@
   - [Day 27](#day-27)
     - [LeeTcode](#leetcode-25)
       - [SQL](#sql)
+  - [Day 28](#day-28)
+    - [LetCode](#letcode)
 ---
 ## Day 1
 
@@ -343,3 +345,10 @@
 - Article Vews I
   - [Problem](https://leetcode.com/problems/article-views-i/description/)
   - [Solution](Day-27/1148-Article-Views-I.sql)
+---
+## Day 28
+
+### LetCode
+- Contains Duplicate
+  - [Problem](https://leetcode.com/problems/contains-duplicate/description/)
+  - [Solution](Day-28/LeetCode/217-Contains-Duplicate.c)
