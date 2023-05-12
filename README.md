@@ -63,6 +63,8 @@
       - [SQL](#sql)
   - [Day 28](#day-28)
     - [LetCode](#letcode)
+  - [Day 29](#day-29)
+    - [LeetCode](#leetcode-26)
 ---
 ## Day 1
 
@@ -352,3 +354,10 @@
 - Contains Duplicate
   - [Problem](https://leetcode.com/problems/contains-duplicate/description/)
   - [Solution](Day-28/LeetCode/217-Contains-Duplicate.c)
+
+---
+## Day 29
+### LeetCode
+- Roman to Integer
+  - [Problem](https://leetcode.com/problems/roman-to-integer/description/)
+  - [Solution](Day-29/LeetCode/13-Roman-to-Integer.cpp)
