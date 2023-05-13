@@ -58,13 +58,16 @@
   - [Day 25](#day-25)
     - [LeetCode](#leetcode-24)
   - [Day 26](#day-26)
+    - [LeetCode](#leetcode-25)
   - [Day 27](#day-27)
-    - [LeeTcode](#leetcode-25)
+    - [LeeTcode](#leetcode-26)
       - [SQL](#sql)
   - [Day 28](#day-28)
     - [LetCode](#letcode)
   - [Day 29](#day-29)
-    - [LeetCode](#leetcode-26)
+    - [LeetCode](#leetcode-27)
+  - [Day 30](#day-30)
+    - [LeetCode](#leetcode-28)
 ---
 ## Day 1
 
@@ -334,6 +337,7 @@
   - [Solution](Day-25/LeetCode/2-Add-Two-Numbers.cpp)
 
 ## Day 26
+### LeetCode
 - Sum Multiples
   - [Peoblem](https://leetcode.com/problems/sum-multiples/description/)
   - [Solution](Day-26/LeetCode/2652-Sum-Multiples.cpp)
@@ -361,3 +365,11 @@
 - Roman to Integer
   - [Problem](https://leetcode.com/problems/roman-to-integer/description/)
   - [Solution](Day-29/LeetCode/13-Roman-to-Integer.cpp)
+
+---
+## Day 30
+
+### LeetCode
+- Top K freguent Elements
+  - [Problem](https://leetcode.com/problems/top-k-frequent-elements/)
+  - [Solution](Day-30/LeetCode/347-Top-K-Frequent-Elements.cpp)
