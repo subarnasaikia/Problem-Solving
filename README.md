@@ -68,6 +68,8 @@
     - [LeetCode](#leetcode-27)
   - [Day 30](#day-30)
     - [LeetCode](#leetcode-28)
+  - [Day 31](#day-31)
+    - [LeetCode](#leetcode-29)
 ---
 ## Day 1
 
@@ -373,3 +375,12 @@
 - Top K freguent Elements
   - [Problem](https://leetcode.com/problems/top-k-frequent-elements/)
   - [Solution](Day-30/LeetCode/347-Top-K-Frequent-Elements.cpp)
+
+
+---
+## Day 31
+### LeetCode
+
+- Group Anagrams
+  - [Problem](https://leetcode.com/problems/group-anagrams/description/)
+  - [Solution](Day-31/LeetCode/49-Group-Anagrams.cpp)
