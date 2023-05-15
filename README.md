@@ -70,6 +70,8 @@
     - [LeetCode](#leetcode-28)
   - [Day 31](#day-31)
     - [LeetCode](#leetcode-29)
+  - [Day 32](#day-32)
+    - [Leetcode](#leetcode-30)
 ---
 ## Day 1
 
@@ -384,3 +386,17 @@
 - Group Anagrams
   - [Problem](https://leetcode.com/problems/group-anagrams/description/)
   - [Solution](Day-31/LeetCode/49-Group-Anagrams.cpp)
+
+
+---
+
+## Day 32
+### Leetcode
+
+- Product of Array Except Self
+  - [Problem](https://leetcode.com/problems/product-of-array-except-self/description/)
+  - [Solution](Day-32/LeetCode/238-Product-of-Array-Except-Self.cpp)
+- Vallid Sudoku
+  - [Problem](https://leetcode.com/problems/valid-sudoku/description/)
+  - [Solution](Day-32/LeetCode/36-Valid-Sudoku.cpp)
+  
