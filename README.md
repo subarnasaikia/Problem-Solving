@@ -72,6 +72,8 @@
     - [LeetCode](#leetcode-29)
   - [Day 32](#day-32)
     - [Leetcode](#leetcode-30)
+  - [Day 33](#day-33)
+    - [LeetCode](#leetcode-31)
 ---
 ## Day 1
 
@@ -399,4 +401,13 @@
 - Vallid Sudoku
   - [Problem](https://leetcode.com/problems/valid-sudoku/description/)
   - [Solution](Day-32/LeetCode/36-Valid-Sudoku.cpp)
+
+
+## Day 33
+
+### LeetCode
+
+- Valid Palindrom
+  - [Problem](https://leetcode.com/problems/valid-palindrome/description/)
+  - [Solution](Day-33/LeetCode/125-Valid-Palindrome.cpp)
   
