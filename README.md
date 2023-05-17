@@ -74,6 +74,8 @@
     - [Leetcode](#leetcode-30)
   - [Day 33](#day-33)
     - [LeetCode](#leetcode-31)
+  - [Day 34](#day-34)
+    - [LeetCode](#leetcode-32)
 ---
 ## Day 1
 
@@ -411,3 +413,11 @@
   - [Problem](https://leetcode.com/problems/valid-palindrome/description/)
   - [Solution](Day-33/LeetCode/125-Valid-Palindrome.cpp)
   
+
+---
+## Day 34
+### LeetCode
+
+- Climbing Stairs
+  - [Problem](https://leetcode.com/problems/climbing-stairs/description/)
+  - [Solution](Day-34/LeetCode/70-Climbing-Stairs.cpp)
