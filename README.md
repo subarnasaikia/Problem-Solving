@@ -76,6 +76,8 @@
     - [LeetCode](#leetcode-31)
   - [Day 34](#day-34)
     - [LeetCode](#leetcode-32)
+  - [Day 35](#day-35)
+    - [LeetCode](#leetcode-33)
 ---
 ## Day 1
 
@@ -421,3 +423,12 @@
 - Climbing Stairs
   - [Problem](https://leetcode.com/problems/climbing-stairs/description/)
   - [Solution](Day-34/LeetCode/70-Climbing-Stairs.cpp)
+
+---
+
+## Day 35
+
+### LeetCode
+- Find the Highest Altitude
+  - [Problem](https://leetcode.com/problems/find-the-highest-altitude/description/)
+  - [Solution(Day-35/LeetCode/1732-Find-the-Highest-Altitude.cpp)]
