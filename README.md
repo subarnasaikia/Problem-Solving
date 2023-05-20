@@ -78,6 +78,10 @@
     - [LeetCode](#leetcode-32)
   - [Day 35](#day-35)
     - [LeetCode](#leetcode-33)
+  - [Day 36](#day-36)
+    - [LeetCode](#leetcode-34)
+  - [Day 37](#day-37)
+    - [LeetCode](#leetcode-35)
 ---
 ## Day 1
 
@@ -432,3 +436,16 @@
 - Find the Highest Altitude
   - [Problem](https://leetcode.com/problems/find-the-highest-altitude/description/)
   - [Solution(Day-35/LeetCode/1732-Find-the-Highest-Altitude.cpp)]
+
+## Day 36
+
+### LeetCode
+- Remove Element
+  - [Problem](https://leetcode.com/problems/remove-element/)
+  - [Solution](Day-36/LeetCode/27-Remove-Element.cpp)
+
+## Day 37
+### LeetCode
+- Two Sum II - Input Array Is Sorted
+  - [Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+  - [Solution](Day-37/LeetCode/167-Two-Sum-II-Input-Array-Is-Sorted.cpp)
