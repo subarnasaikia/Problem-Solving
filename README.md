@@ -82,6 +82,8 @@
     - [LeetCode](#leetcode-34)
   - [Day 37](#day-37)
     - [LeetCode](#leetcode-35)
+  - [Day 38](#day-38)
+    - [LeetCode](#leetcode-36)
 ---
 ## Day 1
 
@@ -449,3 +451,13 @@
 - Two Sum II - Input Array Is Sorted
   - [Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
   - [Solution](Day-37/LeetCode/167-Two-Sum-II-Input-Array-Is-Sorted.cpp)
+
+## Day 38
+
+### LeetCode
+- Minimum String Length After Removing Substrings
+  - [Problem](https://leetcode.com/contest/weekly-contest-346/problems/minimum-string-length-after-removing-substrings/)
+  - [Solution](Day-38/LeetCode/2696-Minimum-String-Length-After-Removing-Substrings.cpp)
+- Lexicographically Smallest Palindrome
+  - [Problem](https://leetcode.com/contest/weekly-contest-346/problems/lexicographically-smallest-palindrome/)
+  - [Solution](Day-38/LeetCode/2697-Lexicographically-Smallest-Palindrome.cpp)
