@@ -84,6 +84,8 @@
     - [LeetCode](#leetcode-35)
   - [Day 38](#day-38)
     - [LeetCode](#leetcode-36)
+  - [Day 39](#day-39)
+    - [LeetCode](#leetcode-37)
 ---
 ## Day 1
 
@@ -461,3 +463,9 @@
 - Lexicographically Smallest Palindrome
   - [Problem](https://leetcode.com/contest/weekly-contest-346/problems/lexicographically-smallest-palindrome/)
   - [Solution](Day-38/LeetCode/2697-Lexicographically-Smallest-Palindrome.cpp)
+
+## Day 39
+### LeetCode
+- Binary Search
+  - [Problem](https://leetcode.com/problems/binary-search/description/)
+  - [Solution](Day-39/LeetCode/704-Binary-Search.cpp)
