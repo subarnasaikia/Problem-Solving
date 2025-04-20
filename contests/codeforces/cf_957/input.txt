@@ -1,0 +1,82 @@
+5 7 1
+CCWWC
+2 5 2
+WL
+1 10 1
+C
+3 1 1
+CCW
+2 1 2
+CL
+1 3 0
+W
+4 4 3
+LCLC
+2 5 1
+WW
+5 5 2
+LCWCW
+1 9 0
+W
+1 7 0
+W
+3 7 1
+WLC
+4 10 0
+LWWC
+2 2 0
+CL
+2 2 0
+CW
+3 4 1
+WLW
+5 5 2
+WLCCL
+3 3 2
+LCL
+4 3 2
+WWWW
+4 6 0
+LLWW
+1 7 0
+L
+5 2 5
+WCCLL
+5 6 4
+LLCWL
+5 1 5
+LCLLL
+5 8 3
+LWLCW
+3 3 2
+WWC
+2 10 2
+CL
+4 3 4
+CWWW
+1 1 1
+W
+4 7 4
+WLCW
+5 7 2
+CWLLL
+3 7 2
+WLC
+2 4 2
+CC
+1 6 0
+W
+4 3 4
+WCLW
+2 10 0
+CC
+2 6 0
+LC
+5 9 2
+LLLLC
+5 8 4
+LCCWC
+3 3 0
+LLL
+1 7 1
+C

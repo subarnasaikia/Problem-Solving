@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these:
+!*/
+!*.cpp
+!**/*.cpp
+!*.md
+!**/*.md
+!*.txt
+!**/*txt
+!.gitignore
