@@ -1,3 +1,9 @@
+
+/*
+Problems links: https://usaco.org/index.php?page=viewproblem2&cpid=1303
+Solution Author: Subarna Saikia
+*/
+
 #include <bits/stdc++.h>
 using  namespace std;
 // #include <ext/pb_ds/assoc_container.hpp>
