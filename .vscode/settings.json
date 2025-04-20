@@ -1,7 +1,8 @@
 {
-    "C_Cpp.errorSquiggles": "disabled",
-    "files.associations": {
-        "*.ejs": "html",
-        "cmath": "cpp"
-    }
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "*.ejs": "html",
+    "cmath": "cpp"
+  },
+  "C_Cpp_Runner.msvcBatchPath": ""
 }
