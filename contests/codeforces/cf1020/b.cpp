@@ -62,6 +62,21 @@ int nxt(){
 
 void solve(){
     // Main solution goes here
+    int n=nxt(), x=nxt();
+    int a = 0;
+    vll arr;
+    rep(i, n){
+        if(x == a) {a++ ; continue;}
+        arr.pb(a);
+        a++;
+    }
+    if(x == n){
+        rep(i, n) cout << arr[i] << " ";
+        cout << endl;
+        return;
+    }
+    rep(i, n-1) cout << arr[i] << " ";
+    cout <<  x << endl;
 }
 
 signed main(){

@@ -62,6 +62,21 @@ int nxt(){
 
 void solve(){
     // Main solution goes here
+    int n=nxt();
+    string s; cin>> s;
+    int ones = 0;
+    rep(i, n){
+        if(s[i] == '1') ones++;
+    }
+    int ans = 0;
+    rep(i, n){
+        if(s[i] == '0'){
+            ans += (ones + 1);
+        }else {
+            ans += (ones - 1);
+        }
+    }
+    cout << ans << endl;
 }
 
 signed main(){

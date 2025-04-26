@@ -62,6 +62,44 @@ int nxt(){
 
 void solve(){
     // Main solution goes here
+    int n=nxt(), k=nxt();
+    vll a(n), b(n);
+    rep(i, n) cin >> a[i];
+    rep(i, n) cin >> b[i];
+    int sumMax = -1, maxEle = -1, minEle = LONG_LONG_MAX;
+    rep(i, n)
+    {
+        if(b[i] != -1)
+        {
+            if(sumMax != -1 && sumMax == (b[i] + a[i])) continue;
+            if(sumMax == -1) {
+                sumMax = b[i] + a[i];
+                continue;
+            }
+            cout << 0 << endl;
+            return;
+        }
+        maxEle = max(maxEle, a[i]);
+        minEle = min(minEle, a[i]);
+    }
+    if(maxEle == -1){
+        cout << 1 << endl;
+        return;
+    }
+    if(sumMax == -1)
+    {
+        cout << k - (maxEle - minEle) + 1 << endl;
+        return;
+    }
+    int difMax = sumMax - maxEle;
+    int difMin = sumMax - minEle;
+    if(difMax >= 0 && difMax <= k && difMin >= 0 && difMin <= k)
+    {
+        cout << 1 << endl;
+        return;
+    }
+    cout << 0 << endl;
+
 }
 
 signed main(){

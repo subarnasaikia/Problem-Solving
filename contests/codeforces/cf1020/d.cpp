@@ -62,6 +62,39 @@ int nxt(){
 
 void solve(){
     // Main solution goes here
+    int n=nxt(), m=nxt();
+    vll a(n), b(m) ;
+    rep(i, n) cin >> a[i];
+    rep(i, m) cin >> b[i];
+    vll prefix(m+1, n), sufix(m+1, -1);
+    int ind=0;
+    prefix[0] = -1;
+    rep(i, m){
+        while(ind < n && a[ind] < b[i]) ind++;
+        if(ind < n){
+            prefix[i+1] = ind;
+            ind++;
+        }
+    }
+    sufix[m] = n;
+    ind = n-1;
+    for(int i = m-1; i>=0; i--){
+        while(ind >= 0 && a[ind] < b[i]) ind--;
+        if(ind >= 0){
+            sufix[i] = ind;
+            ind--;
+        }
+    }
+    
+    if(prefix[m] < n) {
+        cout << 0 << endl;
+        return;
+    }
+    int ans = LONG_LONG_MAX;
+    rep(i, m){
+        if(prefix[i] < sufix[i+1]) ans = min(ans, b[i]);
+    }
+    cout << (ans == LONG_LONG_MAX ? -1 : ans) << endl;
 }
 
 signed main(){
