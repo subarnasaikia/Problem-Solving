@@ -62,6 +62,35 @@ int nxt(){
 
 void solve(){
     // Main solution goes here
+    int n=nxt(), k=nxt();
+    vll a(n);
+    rep(i, n) cin >> a[i];
+    sort(all(a));
+    int medianLeft = (n - k - 1)/2, medianRight = (n - k)/2;
+    if(medianLeft == medianRight) {
+        set<int> homesTobuy;
+        rep(i, k+1){
+            homesTobuy.insert(a[i + medianLeft]);
+        }
+        cout << homesTobuy.size() << endl;
+        return;
+    }
+    int ans = 0;
+    int left = a[medianLeft], right = a[medianRight];
+    int tempLeft= left, tempRight = right;
+    rep(i, k+1)
+    {
+        if(i == 0) continue;
+        tempLeft = a[i+medianLeft], tempRight = a[i+ medianRight];
+        if((right + 1) < tempLeft){
+            ans += (right - left  + 1);
+            left = tempLeft, right = tempRight;
+        }else{
+            right = max(right, tempRight);
+        }
+    }
+    cout << ans + (right - left + 1) << endl;
+
 }
 
 signed main(){

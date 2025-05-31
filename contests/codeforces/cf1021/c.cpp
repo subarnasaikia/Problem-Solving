@@ -62,6 +62,40 @@ int nxt(){
 
 void solve(){
     // Main solution goes here
+    int n=nxt();
+    map<int, int> freq;
+    rep(i, n){
+        int val =nxt();
+        freq[val]++;
+    }
+    int cnttwoconji = 0, cntfourconji = 0;
+    int prev = LONG_LONG_MIN;
+    for(auto d: freq)
+    {
+        // cout << d.first << " " << d.second << " " << cnttwoconji << endl;
+        if(d.second >= 4){
+            cout<< "YES\n";
+            return;
+        }
+        if(d.second >= 2 && prev+1 == d.first){
+            cnttwoconji++;
+            prev = d.first;
+            if(cnttwoconji >= 2){
+                cout << "YES\n";
+                return;
+            }
+        }
+        if(prev+1 == d.first)
+        {
+            prev++;
+        }else{
+            prev = d.first;
+            cnttwoconji= 0;
+            if(d.second >= 2) cnttwoconji++;
+        }
+    }
+        
+    cout << "NO\n";
 }
 
 signed main(){

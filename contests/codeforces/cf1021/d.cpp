@@ -62,6 +62,7 @@ int nxt(){
 
 void solve(){
     // Main solution goes here
+    
 }
 
 signed main(){

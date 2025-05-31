@@ -62,6 +62,24 @@ int nxt(){
 
 void solve(){
     // Main solution goes here
+    string s;
+    cin >> s;
+    vi a(10, 0);
+    rep(i, 10){
+        a[s[i] - '0']++;
+    }
+    char c = '9';
+    string newS = "";
+    rep(i, 10){
+        char newC = c;
+        while(a[newC - '0'] == 0) newC++;
+        if(a[newC - '0'] > 0){
+            newS += newC;
+            a[newC - '0']--;
+        }
+        c--;
+    }
+    cout << newS << endl;
 }
 
 signed main(){
