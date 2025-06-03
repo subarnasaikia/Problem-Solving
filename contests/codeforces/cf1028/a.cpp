@@ -62,6 +62,13 @@ int nxt(){
 
 void solve(){
     // Main solution goes here
+    int a=nxt(), b=nxt(), c=nxt(), d=nxt();
+    if( min(a, c) >=  min(b, d) ) {
+        cout << "Gellyfish\n";
+        return;
+    }
+
+    cout << "Flower\n";
 }
 
 signed main(){

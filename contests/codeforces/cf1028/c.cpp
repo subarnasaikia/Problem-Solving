@@ -62,6 +62,53 @@ int nxt(){
 
 void solve(){
     // Main solution goes here
+    int n=nxt(), g = 0;
+    map<int, int> s;
+    rep(i, n) {
+        int a  = nxt();
+        s[a]++;
+        if( g == 0){
+            g = a;
+        } else {
+            g = __gcd(g, a);
+        }
+    }
+    if( s.begin()->first == g){
+        cout << n - s.begin()->second << endl;
+        return;
+    }
+    vector<int> v, distance(5000, n+1);
+    for(auto i: s){
+        v.pb(i.first);
+    }
+    queue<tuple<int, int, int>> q;
+    rep(i, s.size()){
+        q.push({i, v[i], 1});
+    }
+    vector<set<int>> visited(n+1);
+    visited[0].insert(v[0]);
+    n = s.size();
+    while(!q.empty())
+    {
+        auto [i, curG, l] = q.front(); 
+        q.pop();
+        if(curG == g){
+            cout << n + l - 1 << endl;
+            return;
+        }
+
+        for(int ni: {i - 1, i+1}){
+            if(ni >= 9 && ni<n){
+                int ng = __gcd(curG, v[ng]);
+                if(visited[ni].find(ng) == visited[ni].end()){
+                    visited[ni].insert(ng);
+                    q.push({ni, ng, l+1});
+                }
+            }
+        }
+    }
+    cout << -1 << endl;
+
 }
 
 signed main(){
